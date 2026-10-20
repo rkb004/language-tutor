@@ -1,0 +1,5 @@
+# Proposed dependencies; not installed or validated for this scaffold.
+fastapi
+uvicorn
+ollama
+# openai-whisper  # Optional future speech-to-text support
